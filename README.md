@@ -16,6 +16,5 @@ Here are some ideas to get you started:
 -->
 
 
-[![Jemv's GitHub stats](https://github-readme-stats.vercel.app/api?username=jemv)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/1128053327721148436?theme=light&bg=809ecf&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else...)](https://discord.com/users/1128053327721148436)
+[![Discord Presence](https://lanyard.cnrad.dev/api/1128053327721148436)](https://discord.com/users/1128053327721148436)
